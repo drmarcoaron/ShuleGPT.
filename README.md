@@ -5,9 +5,13 @@ ShuleGPT is a multilingual AI assistant built to help in making informed decisio
 MISSION: Democratize access to expert-level guidance for every Tanzanian youth — no matter their location, language, or background.
 
 ShuleGPT is built for;
+
 Secondary school and university students
+
 Youth looking for carrier, health and academic guidance
+
 Educators and organizations looking to extend access to reliable AI advice in local language
+
 Anyone in Tanzania wanting localized AI tools
 
 Why ShuleGPT?
@@ -30,10 +34,15 @@ ShuleGPT is built to bridge this gap, offering:
 Core Technologies
 
 LLM Backbone | Gemma 2B (Fine-tuned) |
+
 Fine-tuning | QLoRA + HuggingFace PEFT |
+
 Retrieval | LangChain + FAISS |
+
 Data Sources | TCU Handbook, University Prospectuses, MedAlpaca, MedMCQA |
+
 Interface | Streamlit + Flask + Twilio (WhatsApp) |
+
 Deployment | Hugging Face Spaces, Localhost, Ngrok |
 
 📊 Project Architecture
