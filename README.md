@@ -71,13 +71,3 @@ Deployment | Hugging Face Spaces, Localhost, Ngrok |
         │    Answer with     │
         │   Citations + Link │
         └────────────────────┘
-⭐ Support or Collaborate
-If you believe in the mission of localizing AI for Africa, feel free to:
-
-⭐ Star this repo
-
-🤝 Collaborate or sponsor
-
-📢 Share with others
-
-“At the end of the day, people care about results, not effort.” — Show them what you built.
