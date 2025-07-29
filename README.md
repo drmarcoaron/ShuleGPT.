@@ -1,4 +1,4 @@
-ShuleGPT: AI for Education, Healthcare, and Financial Empowerment in Tanzania.
+ShuleGPT: AI for Education, Healthcare, and Financial Empowerment.
 
 ShuleGPT is a multilingual AI assistant built to help in making informed decisions about education, healthcare, and finance — using the power of LLMs, Retrieval-Augmented Generation (RAG), and fine-tuning.
 
